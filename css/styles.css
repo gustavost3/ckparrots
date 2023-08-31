@@ -11029,3 +11029,17 @@ p {
 .address strong {
   font-size: 1.2rem;
 }
+
+section{
+  animation: fadein 1s;
+}
+
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
