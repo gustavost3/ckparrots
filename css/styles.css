@@ -11030,9 +11030,9 @@ p {
   font-size: 1.2rem;
 }
 
-section{
+/* section{
   animation: fadein 1s;
-}
+} */
 
 @keyframes fadein {
   from {
