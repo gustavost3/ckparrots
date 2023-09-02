@@ -10935,9 +10935,13 @@ p {
 .cta {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: rgba(230, 167, 86, 0.);
-  /* margin-left: 10vw;
-  margin-right: 10vw; */
+  background-color: rgba(230, 167, 86, 0.9);
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: translateX(50%);
+  border-radius: 0.5rem;
 }
 .cta .cta-inner {
   position: relative;
